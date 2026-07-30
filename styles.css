@@ -1,0 +1,34 @@
+/* Modification 1: Changed headings to dark green instead of purple */
+h1,
+h2 {
+    color: darkgreen;
+}
+
+p {
+    color: gray;
+}
+
+/* Modification 2: Changed ul border to teal */
+ul {
+    border: 2px solid teal;
+}
+
+ol {
+    border: 2px solid purple;
+}
+
+/* Modification 3: Increased padding from 5px 20px to 10px 25px */
+ol,
+ul {
+    padding: 10px 25px;
+    border-radius: 4px;
+}
+
+h1,
+strong {
+    color: darkgreen;
+}
+
+em {
+    color: gray;
+}
